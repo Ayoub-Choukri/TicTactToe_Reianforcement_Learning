@@ -4,7 +4,8 @@
 *   **Date** : 05/04/2024
 # Lancement du programme
 
-**Pour lancer le programme,il suffit d'exécuter le script launch.sh. Ce pendant, il faut modifier le nom de l'environnement virtuel dans le script launch.sh et installer les dépendances nécessaires.**
+**Pour lancer le programme,il suffit d'exécuter le script launch.sh. Pour réentrainer l'agent, il suffit d'exécuter de mettre la variable **train** à **True** dans le fichier **launch.sh**.**
+
 
 # Introduction
 
